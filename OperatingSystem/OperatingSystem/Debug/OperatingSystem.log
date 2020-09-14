@@ -1,0 +1,5 @@
+﻿  FileSystem.cpp
+C:\Users\stiller\Desktop\操作系统\FileSystem 杜茂涵\杜茂涵_171002505_操作系统-课程设计\OperatingSystem\OperatingSystem\FileSystem.cpp(711,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\stiller\Desktop\操作系统\FileSystem 杜茂涵\杜茂涵_171002505_操作系统-课程设计\OperatingSystem\OperatingSystem\FileSystem.cpp(956,11): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+C:\Users\stiller\Desktop\操作系统\FileSystem 杜茂涵\杜茂涵_171002505_操作系统-课程设计\OperatingSystem\OperatingSystem\FileSystem.cpp(245): warning C4715: “FindInode”: 不是所有的控件路径都返回值
+  OperatingSystem.vcxproj -> C:\Users\stiller\Desktop\操作系统\FileSystem 杜茂涵\杜茂涵_171002505_操作系统-课程设计\OperatingSystem\Debug\OperatingSystem.exe
